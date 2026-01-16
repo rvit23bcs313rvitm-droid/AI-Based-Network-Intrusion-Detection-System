@@ -1,3 +1,14 @@
+---
+title: AI-Based Network Intrusion Detection System
+emoji: 🛡️
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.39.0
+app_file: app.py
+pinned: false
+---
+
 # AI-Based Network Intrusion Detection System
 
 This project implements an AI-based Network Intrusion Detection System that identifies
@@ -48,18 +59,12 @@ for traffic analysis.
 
 3. Run the application:
 
-4. Open the displayed local URL in a browser.
-
 ---
 
 ## Deployment
 
-The project can be deployed on Hugging Face using Streamlit Spaces.
-Upload the following files:
-- `app.py`
-- `requirements.txt`
-- `README.md`
-- Dataset file
+This application is deployed using **Hugging Face Spaces** with Streamlit.
+Users can access the system through a web browser.
 
 ---
 
@@ -75,12 +80,11 @@ Upload the following files:
 ## Conclusion
 
 This project demonstrates how machine learning and AI can be applied to
-cybersecurity for detecting network intrusions. It provides a practical
-approach to understanding network attack detection.
+cybersecurity for detecting network intrusions.
 
 ---
 
 ## Author
 
-Student Name: Sinchana G
+Student Name: Sinchana G  
 Project Title: AI-Based Network Intrusion Detection System
